@@ -4,7 +4,7 @@
 ## Sobre o projeto
 Este repositório contém a Análise de Dados do dataset de casas da California. Foi implementado a bilbioteca Sklearn de Machine Learning para treinar o algoritmo de avaliação do valor médio das casas.
 
-[![NPM](https://img.shields.io/github/license/tvlemes/machine-learning-decision-tree?style=plastic)](https://github.com/tvlemes/machine-learning-random-forest/blob/main/LICENSE)
+[![NPM](https://img.shields.io/github/license/tvlemes/machine-learning-decision-tree)](https://github.com/tvlemes/machine-learning-decision-tree/blob/main/license)
 
 ![](/images/01.PNG)
 
